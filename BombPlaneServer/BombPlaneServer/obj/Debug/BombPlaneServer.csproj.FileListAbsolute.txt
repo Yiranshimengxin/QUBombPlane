@@ -1,0 +1,8 @@
+C:\Unity\QUBombPlane\BombPlaneServer\BombPlaneServer\bin\Debug\BombPlaneServer.exe.config
+C:\Unity\QUBombPlane\BombPlaneServer\BombPlaneServer\bin\Debug\BombPlaneServer.exe
+C:\Unity\QUBombPlane\BombPlaneServer\BombPlaneServer\bin\Debug\BombPlaneServer.pdb
+C:\Unity\QUBombPlane\BombPlaneServer\BombPlaneServer\obj\Debug\BombPlaneServer.csproj.AssemblyReference.cache
+C:\Unity\QUBombPlane\BombPlaneServer\BombPlaneServer\obj\Debug\BombPlaneServer.csproj.SuggestedBindingRedirects.cache
+C:\Unity\QUBombPlane\BombPlaneServer\BombPlaneServer\obj\Debug\BombPlaneServer.csproj.CoreCompileInputs.cache
+C:\Unity\QUBombPlane\BombPlaneServer\BombPlaneServer\obj\Debug\BombPlaneServer.exe
+C:\Unity\QUBombPlane\BombPlaneServer\BombPlaneServer\obj\Debug\BombPlaneServer.pdb
